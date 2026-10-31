@@ -1,0 +1,6 @@
+.venv/
+data/
+plant/
+province/
+**.geojson
+.DS_Store
